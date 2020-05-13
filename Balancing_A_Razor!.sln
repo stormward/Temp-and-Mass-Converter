@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balancing_A_Razor!", "Balancing_A_Razor!\Balancing_A_Razor!.csproj", "{DAA26F2F-DB8E-4E99-BF64-DED548CBD046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA26F2F-DB8E-4E99-BF64-DED548CBD046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA26F2F-DB8E-4E99-BF64-DED548CBD046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA26F2F-DB8E-4E99-BF64-DED548CBD046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA26F2F-DB8E-4E99-BF64-DED548CBD046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5575CB-5DB9-4D51-BA80-86F55E87E3E5}
+	EndGlobalSection
+EndGlobal
